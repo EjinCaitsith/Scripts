@@ -1,0 +1,12 @@
+send @all /echo Base buffs for WHM, GEO, BRD, COR and RDM;
+send ejiin exec SAMbase;
+wait .1;
+send ashraya exec BRDbase;
+wait .1;
+send yarhi exec WHMbase;
+wait .1;
+send ygnas exec RDMbase;
+wait .1;
+send shred exec CORbase;
+wait .1; 
+send irritant exec GEObase
