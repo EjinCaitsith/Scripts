@@ -1,5 +1,5 @@
 # Scripts
-Window 4 Buff Scripts
+Windower 4 Buff Scripts
 
 A universally compatible method for doing exactly what GearSwap Commands do, like BRD, WHM, GEO, RDM pre-buffing, regardless of who
 the author of your GearSwap is.
