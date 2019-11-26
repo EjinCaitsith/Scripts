@@ -1,1 +1,1 @@
-
+input /ja "afflatus solace" <me>; wait 1.3; input /ja "light arts" <me>; wait 1.3; input /ma "Shellra V" <me>; wait 5; input /ma "Protectra V" <me>; wait 5; input /ma "Barblizzara" <me>; wait 5; input /ma "Barparalyzra" <me>; wait 6; input /ma "Boost-STR" <me>; wait 6; input /ma "Auspice" <me>; wait 5; input /ma "reraise IV" <me>; wait 7; input /ja "accession" <me>; wait 2; input /ma "Regen IV" <me>; wait 5; input /ma "Aurorastorm" Yarhi
