@@ -1,0 +1,1 @@
+input /ja "saboteur" <me>; wait 1.5; input /ma "slow II" <bt>; wait 5; input /ma "frazzle III" <bt>; wait 5; input /ma "distract III" <bt>; wait 5; input /ma "addle II" <bt>; wait 5; input /ma "paralyze II" <bt>
