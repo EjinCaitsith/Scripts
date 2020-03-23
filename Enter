@@ -1,0 +1,9 @@
+send Shred exec enterBCNM;
+wait 0.5;
+send Ashraya exec enterBCNM;
+wait 0.5;
+send Yarhi exec enterBCNM;
+wait 0.5;
+send Ygnas exec enterBCNM;
+wait 0.5;
+send Irritant exec enterBCNM
