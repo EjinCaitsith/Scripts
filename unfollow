@@ -1,0 +1,1 @@
+setkey numpad7 down;wait 0.1;setkey numpad7 up
