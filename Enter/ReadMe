@@ -2,10 +2,16 @@ Script used to enter VERY DIFFICULT HTMB BCNMs. This one is specifically used fo
 
 Due to Ouryu having a much longer wait, you can adjust the 15 and 25 second waits if doing other BCs to something much lower.
 
-You must edit in your own character names in the Enter1 file.
+Install Guide:
+1) Make a new text file in your script folder named Enter and copy/paste the contents of Enter1 and save. You must edit in your own char names.
+2) Make a 2nd new text file and name it Enter2 and copy/paste the contents of Enter2 and save.
+3) Make a 3rd new text file and name it Enter3 and copy/paste the contents of Enter3 and save.
+4) In game, type //exec enter on your main char while it and all your mules are face the entry point.
+
 
 WILL NOT WORK IF:
 
-1) You have any options other than the HTMB BC in the menu list
-2) You touch your keyboard at any point when the script is running
-3) You lag while the script is going
+1) You are not facing the entry point for the HTMB
+2) You have any options other than the HTMB BC in the menu list
+3) You touch your keyboard at any point when the script is running
+4) You lag while the script is going
