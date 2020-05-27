@@ -1,3 +1,6 @@
+wait 1;
+send Ejiin exec enterej;
+wait 0.5;
 send Shred exec enterBCNM;
 wait 0.5;
 send Ashraya exec enterBCNM;
