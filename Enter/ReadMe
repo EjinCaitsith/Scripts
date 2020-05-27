@@ -1,1 +1,11 @@
+Script used to enter HTMB BCNMs. This one is specifically used for Ouryu but can be used for all others.
 
+Due to Ouryu having a much longer wait, you can adjust the 15 and 25 second waits if doing other BCs to something much lower.
+
+You must edit in your own character names in the Enter1 file.
+
+WILL NOT WORK IF:
+
+1) You have any options other than the HTMB BC in the menu list
+2) You touch your keyboard at any point when the script is running
+3) You lag while the script is going
