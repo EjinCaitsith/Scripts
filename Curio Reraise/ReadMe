@@ -1,0 +1,14 @@
+Script used to buy all 3 Reraise items from the Curio Moogle.
+
+1) Make a text file in your script folder named Reraise and copy/past Reraise1 into that and save. Edit in your own char names.
+
+2) Make a second text file named Reraise2 and copy/paste Reraise2 from Github into that and save.
+
+3) To start script type //exec reraise while standing infront of curio moogle
+
+WILL NOT WORK IF:
+
+1) You are not facting Curio Moogle
+
+2) You touch your keyboard at any point when the script is running.
+
