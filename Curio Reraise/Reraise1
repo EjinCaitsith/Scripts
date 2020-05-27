@@ -1,1 +1,13 @@
-
+send @all /echo Ejiin and friends are buying reraise items, Kupo~!;
+wait 1;
+send ejiin exec reraise2;
+wait 0.5;
+send ashraya exec reraise2;
+wait 0.5;
+send irritant exec reraise2;
+wait 0.5;
+send yarhi exec reraise2;
+wait 0.5;
+send shred exec reraise2;
+wait 0.5;
+send ygnas exec reraise2;
