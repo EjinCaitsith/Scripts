@@ -1,0 +1,47 @@
+bind f7 gs c C10
+bind f9 gs c C1
+bind ~f9 send irritant blazeofglory; wait 1; sat youcommand irritant geo-frailty; wait 4; send irritant dematerialize; wait 2; send irritant eclipticattrition; wait 2; send irritant lifecycle; wait .5; send @all /echo BoG/EA Frailty
+bind @f9 send shred autows set leaden salute; wait .5; send ygnas autows set leaden salute; wait .5; send @all /echo Leaden Salute
+bind f10 gs c C3
+bind ~f10 send irritant blazeofglory; wait 1; sat youcommand irritant geo-malaise; wait 4; send irritant dematerialize; wait 2; send irritant eclipticattrition; wait 2; send irritant lifecycle; wait .5; send @all /echo BoG/EA Malaise
+bind @f10 send @all autows off
+bind f11 gs c C17
+bind ~f11 send irritant blazeofglory; wait 1; sat youcommand irritant geo-wilt; wait 4; send irritant dematerialize; wait 2; send irritant eclipticattrition; wait 2; send irritant lifecycle; wait .5; send @all /echo BoG/EA Wilt
+bind @f11 send @all autows on
+bind f12 gs c C5
+bind ~f12 send irritant indivex
+bind @f12 send shred autows set aeolian edge; wait .5; send ygnas autows set aeolian edge; wait .5; send @all /echo Aeolian Edge
+bind !f7 gs c C6
+bind !f8 gs c C16
+bind !f9 gs c C17
+bind ^f7 gs c C15
+bind ^f8 gs c C8
+bind ^f9 gs c C9
+bind ^f10 gs c C10
+bind ^f11 gs c C11
+bind ^f12 gs c C12
+bind delete send yarhi cure5 ejiin
+bind ^delete send yarhi cure5 shred
+bind !delete send yarhi /ma "cure V" yarhi
+bind @delete send yarhi /ma "cure VI" ejiin
+bind ~delete send irritant indimalaise; wait .5; send @all /echo Indi-Malaise
+bind home send yarhi /ma "curaga IV" ejiin
+bind ^home send yarhi /ma "curaga IV" shred
+bind !home send yarhi /ja sublimation <me>
+bind @home send yarhi /ma "curaga V" ejiin
+bind ~home send irritant fullcircle
+bind end gs c na
+bind ^end send shred gs c na
+bind !end sat youcommand Ygnas Silence
+bind @end sat youcommand irritant stun; wait .5; send @all /echo STUN JUST USED IT
+bind ~end send irritant indifury; wait .5; send @all /echo Indi-Fury
+bind pagedown send @all gs c elegy
+bind ^pagedown sat youcommand Irritant Sleepga; wait .1; sat youcommand Ashraya Sleepga; wait .1; sat youcommand Shred Sleepga
+bind !pagedown sat youcommand Ashraya "Horde Lullaby II"
+bind ~pagedown send irritant indiacumen; wait .5; send @all /echo Indi-Acumen
+bind @pagedown sat youcommand Ygnas Fire5; wait .1; sat youcommand Irritant Fire5; wait .1; sat youcommand Shred Fire5; wait .1; youcommand Ashraya Fire5
+bind pageup send @all gs c dispel
+bind ^pageup sat youcommand Ygnas Distract3; wait .5; sat youcommand Ashraya CarnageElegy; wait 3.5; sat youcommand Ygnas Dia3; wait .5; sat youcommand Shred LightShot
+bind !pageup sat youcommand Ygnas Dispelga
+bind @pageup sat youcommand Ygnas Frazzle3; wait 4; sat youcommand Ygnas Distract3; wait 4; sat youcommand Ygnas Paralyze2; wait 4; sat youcommand Ygnas Slow2; wait 4; sat youcommand Ygnas Addle2; wait 4; sat youcommand Ygnas Bio3 
+bind ~pageup send irritant elementalseal; wait 2; sat youcommand irritant impact
