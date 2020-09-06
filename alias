@@ -1,0 +1,40 @@
+alias sa send @all
+alias sac send @all gs c
+alias sas send @all exec
+alias off send @all /attackoff
+alias at send @all /autotarget on
+alias att send @all /autotarget off
+alias la send @all tr lotall
+alias pa send @all tr passall
+alias l1 send @all lua load lottery
+alias l2 send @all lua unload lottery
+alias ld send @all /pcmd leader ejiin
+alias ld2 send @all /pcmd leader shred
+alias ld3 send @all /pcmd leader ygnas
+alias ld4 send @all /pcmd leader ashraya
+alias ld5 send @all /pcmd leader irritant
+alias ld6 send @all /pcmd leader yarhi
+alias dm exec dm
+alias fkey input /item "forbidden key" <t>
+alias si send ygnas sneak ejiin; wait 5; send ygnas invisible ejiin
+alias gre lua reload gearswap
+alias w1 send ejiin input /item 'lucid wings II' Ejiin
+alias w2 send shred input /item 'lucid wings II' Shred
+alias w3 send Ygnas input /item 'lucid wings II' Ygnas
+alias w4 send Ashraya input /item 'lucid wings II' Ashraya
+alias w5 send Irritant input /item 'lucid wings II' Irritant
+alias w6 send Yarhi input /item 'lucid wings II' Yarhi
+alias cro send Yarhi sacrosanctity
+alias ihas send irritant entrust; wait 2; send irritant indihaste ejiin
+alias rd1 send shred randomdeal
+alias rd2 send ygnas randomdeal
+alias rr1 send @all reraiser
+alias rr2 send @all hi-reraiser
+alias rr3 send @all instant reraise
+alias ejlog send ejiin lua load xipivot; wait .5; send ejiin lua load equipviewer; wait .5; send ejiin lua load partybuffs
+alias bolt send shred boltersroll
+alias con send @all cor on
+alias coff send @all cor off
+alias cload send shred lua load autocor; wait .5; send ygnas lua load autocor
+alias rh1 send shred gs rh enable; wait .5; ra <t>
+alias rh2 send shred gs rh disable
